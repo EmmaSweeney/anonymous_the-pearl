@@ -33,9 +33,10 @@
 		<meta property="authority" refines="#subject-1">LCHS</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A father is heartbroken after losing his little daughter, whom he thinks of as a beautiful pearl he can never get back.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;A father is heartbroken after losing his little daughter, whom he thinks of as a beautiful pearl he can never get back. One day, while grieving in a garden, he falls asleep and dreams of a strange, perfect world where he meets her again—only now she appears as a glowing, peaceful young woman in heaven. She gently tries to comfort him, explaining that she is safe and happy with God, and that her place there isn’t something she earned but was given through divine love. The father desperately wants to be with her again, but he struggles to fully understand and accept what she’s saying. When he tries to cross a river to reach her, the dream suddenly ends, and he wakes up.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Pearl&lt;/i&gt; was written in the late 14th century by the unnamed Gawain Poet, the same author believed to have written &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/anonymous/sir-gawain-and-the-green-knight/s-o-andrew"&gt;Sir Gawain and the Green Knight&lt;/a&gt;&lt;/i&gt;. It is a Middle English poem that reflects strong Christian beliefs, especially ideas about grief, salvation, and divine grace, which were central to medieval life. The poem is also part of the “dream vision” tradition, where a narrator falls asleep and experiences a symbolic dream that reveals deeper spiritual truths.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13211</dc:source>

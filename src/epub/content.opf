@@ -88,7 +88,30 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-1.xhtml" id="section-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-2.xhtml" id="section-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-3.xhtml" id="section-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-4.xhtml" id="section-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-5.xhtml" id="section-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-6.xhtml" id="section-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-7.xhtml" id="section-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-8.xhtml" id="section-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-9.xhtml" id="section-9.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-10.xhtml" id="section-10.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-11.xhtml" id="section-11.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-12.xhtml" id="section-12.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-13.xhtml" id="section-13.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-14.xhtml" id="section-14.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-15.xhtml" id="section-15.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-16.xhtml" id="section-16.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-17.xhtml" id="section-17.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-18.xhtml" id="section-18.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-19.xhtml" id="section-19.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/section-20.xhtml" id="section-20.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -96,6 +119,29 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="preface.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
+		<itemref idref="section-1.xhtml"/>
+		<itemref idref="section-2.xhtml"/>
+		<itemref idref="section-3.xhtml"/>
+		<itemref idref="section-4.xhtml"/>
+		<itemref idref="section-5.xhtml"/>
+		<itemref idref="section-6.xhtml"/>
+		<itemref idref="section-7.xhtml"/>
+		<itemref idref="section-8.xhtml"/>
+		<itemref idref="section-9.xhtml"/>
+		<itemref idref="section-10.xhtml"/>
+		<itemref idref="section-11.xhtml"/>
+		<itemref idref="section-12.xhtml"/>
+		<itemref idref="section-13.xhtml"/>
+		<itemref idref="section-14.xhtml"/>
+		<itemref idref="section-15.xhtml"/>
+		<itemref idref="section-16.xhtml"/>
+		<itemref idref="section-17.xhtml"/>
+		<itemref idref="section-18.xhtml"/>
+		<itemref idref="section-19.xhtml"/>
+		<itemref idref="section-20.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
